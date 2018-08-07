@@ -1,0 +1,26 @@
+h2{
+	text-align: center;
+	border: 1px solid;
+	border-radius: 5px;
+
+}
+.box{
+	min-height: 50px;
+	background-color: gray;
+	margin-bottom: 20px;
+}
+.item{
+	background-color: red;
+	border: 2px solid;
+	border-radius: 5px;
+}
+.box1{
+	min-height: 100px;
+	background-color: gray;
+	margin-bottom: 20px;
+}
+.box2{
+	min-height: 200px;
+	background-color: gray;
+	margin-bottom: 20px;
+}
